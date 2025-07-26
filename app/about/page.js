@@ -14,7 +14,7 @@ export default function AboutPage() {
         Users can log in to view and track service updates while administrators can add, edit, and delete records, making maintenance tracking easy and organized.
       </p>
       <p>
-        Whether you're managing vehicle services, equipment logs, or maintenance schedules, Service Record Logger ensures your data is always organized and accessible.
+        Whether you are managing vehicle services, equipment logs, or maintenance schedules, Service Record Logger ensures your data is always organized and accessible.
       </p>
     </div>
   );
